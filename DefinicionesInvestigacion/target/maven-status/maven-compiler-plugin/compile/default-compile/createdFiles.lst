@@ -1,0 +1,4 @@
+com\definiciones\dominio\InvestigacionBean.class
+com\mycompany\definicionesinvestigacion\JakartaRestConfiguration.class
+com\mycompany\definicionesinvestigacion\resources\JakartaEE10Resource.class
+com\definiciones\dominio\Investigacion.class
